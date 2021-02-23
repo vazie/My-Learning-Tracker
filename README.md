@@ -19,7 +19,7 @@ A complete log of my software and web development skills, learning, resources, h
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**C**                             | ![done][done]     |               |               |                  |                |          .      |
+|**C**                             | ![done][done]     | ![done][done] |               |                  |                |          .      |
 |**Python**                        | ![done][done]     |               |               |                  |                |          .      |
 |**HTML5**                         | ![done][done]     |               |               |                  |                |                 |
 |**CSS3**                          | ![done][done]     |               |               |                  |                |                 |
