@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vazie
 - 👀 I’m interested in coding and learing. I'm currently a teacher but am looking to make the switch to programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C but have dabbled in Python and HTML (basic website updates and publishing)
 - 💞️ I’m looking to collaborate on any early stage projects
 
 <!---
