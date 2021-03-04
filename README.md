@@ -45,6 +45,7 @@ A complete log of my software and web development skills, learning, resources, h
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Jul 2018 | [BCS certificate in Computer Science Teaching]                  | [BCS]                                       |
 | ![In Progress][In Progress] |          | [CS50 Intro to Computer Science]                                | [Harvard] - [David Malan]                   |
+| ![In Progress][In Progress] |          | [Responsive Web Design]                                         | [FreeCodeCamp]                              |
 | ![Soon][Soon]               |          |                                                                 |                                             |
 | ![Soon][Soon]               |          |                                                                 |                                             |
 
@@ -52,14 +53,14 @@ A complete log of my software and web development skills, learning, resources, h
 
 [BCS certificate in Computer Science Teaching]: https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-certificate-in-computer-science-teaching/
 [CS50 Intro to Computer Science]: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
-
+[Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
 
 [//]: # (Reference links to tutors)
 
 [BCS]: https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-certificate-in-computer-science-teaching/
 [Harvard]: https://online-learning.harvard.edu/
 [David Malan]: https://twitter.com/davidjmalan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-
+[FreeCodeCamp]: https://www.freecodecamp.org/learn
 ----
 
 ## Interests
